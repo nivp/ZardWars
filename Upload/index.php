@@ -50,9 +50,10 @@
 	<td align="center">
 	Don't forget to join us at the Tavern, where you can share your ideas and report bugs.
 	    <br/>
-<a href="https://discord.gg/PSAYhWV" target="_blank">Discord&nbsp;Server</a> 
+		| <a href="https://discord.gg/PSAYhWV" target="_blank">Discord&nbsp;Server</a> 
 		| <a href="zw-signup.php" target="_blank">Create Account</a>
 		| <a href="zw-topchars.php" target="_blank">Top Characters</a>
+		| <a href="https://github.com/nivp/ZardWars/issues" target="_blank">Report Bug</a>
 	</td>
   </tr>
   <tr>
