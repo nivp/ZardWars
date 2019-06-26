@@ -3,7 +3,7 @@
 Added Stat Untrainer
 
 ## Version 1.0
-On par with the pedia.
+On par with the [pedia](http://zardwarsrevival.nfshost.com).
 
 # Future Updates
 ## Version 1.2
