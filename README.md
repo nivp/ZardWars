@@ -2,7 +2,7 @@
 # ZardWars
 This is the code for a ZardWars clone.
 
-# Setup Instructions
+# Server Setup Instructions
 Follow the [Setup instructions](http://github.com/nivp/ZardWars/blob/master/Instructions.md) page.
 
 # Changelog
