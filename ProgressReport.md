@@ -1,3 +1,16 @@
+# Item inclusion table
+
+| Monsters                | Weapons                      | Armors                         | Shields                              | Spells                                 | Pets                        | Requests                     |
+|-------------------------|------------------------------|--------------------------------|--------------------------------------|----------------------------------------|-----------------------------|------------------------------|
+| Lvl 0 - Frogzard        | Lv 0 - Battleaxe - Earth     | Lv 0 - Dark Plate - Darkness   | Lv 0 - Energy Shield - Energy        | Lv 0 - Fireball - Fire                 | Lv 0 - Bunny Rabbit - Wind  | Lv 30 - SkinScraper (Weapon) |
+| Lvl 0 - Frogzard Hunter | Lv 0 - Long Sword - Earth    | Lv 0 - Earthen Plate - Earth   | Lv 0 - Fire Shield - Fire            | Lv 0 - Freeze - Ice                    | Lv 0 - Penguin - Ice        | Lv 55 - Razorscale (Weapon)  |
+| Lvl 0 - Icezard         | Lv 5 - Boomerang - Earth     | Lv 0 - Frogzard Hunter - Earth | Lv 0 - Ice Shield - Ice              | Lv 0 - Salad Shooter - Earth           | Lv 5 - Daimyo - Earth       | Lv 57 - Flagpole (Weapon)    |
+| Lvl 0 - Zorg            | Lv 5 - Energy Flail - Energy | Lv 0 - Energy Plate - Energy   | Lv 0 - Shield of Darkness - Darkness | Lv 0 - Tendrils of Darkness - Darkness | Lv 10 - Raptor Duck - Water | Lv 80 - WitchWaster (Weapon) |
+| Lvl 1 - Energyzard    | Lv 5 - Fire Throwing Knives - Fire | Lv 0 - Fire Plate - Fire              | Lv 0 - Water Shield - Water  | Lv 5 - Avalanche Slide - Neutral | Lv 20 - Parrot - Water        | Lv 80 - OnyxxWartexx (Weapon)     |
+| Lvl 1 - Firezard      | Lv 10 - BoomBoomerang - Fire       | Lv 0 - Ice Plate - Ice                | Lv 0 - Wind Shield - Wind    | Lv 10 - Fire Bat Swarm - Fire    | Lv 20 - Sparky - Fire         | Lv 84 - Shadow Fireaxe (Weapon)   |
+| Lvl 3 - Darkzard      | Lv 10 - Deadly Wind Staff - Wind   | Lv 0 - Water Plate - Water            | Lv 0 - Wooden Shield - Earth | Lv 15 - RainStorm - Water        | Lv 20 - Squidge - Earth       | Lv 60 - Asgardian Plate (Armor)   |
+| Lvl 3 - Tadzard       | Lv 10 - Icebolt Crossbow - Ice     | Lv 0 - Wind Plate - Wind              | Lv 5 - Dimensional - Neutral | Lv 15 - Whirl Tide - Water       | Lv 30 - Ice Vampragon - Ice   | Lv 60 - Asgardian Shield (Shield) |
+| Lvl 4 - Sickly Zombie | Lv 20 - Darkthorn - Darkness       | Lv 0 - Frogzard Rider Armor - Neutral | Lv 10 - Ethos - Neutral      | Lv 15 - EarthStrike - Earth      | Lv 60 - Lilliputians - Energy | Lv 50 - UDSoE (Weapon)            |
 
 
 # Weapon Balance Table
