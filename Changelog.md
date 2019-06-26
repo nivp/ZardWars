@@ -6,7 +6,7 @@ Added Stat Untrainer
 On par with the pedia.
 
 # Future Updates
-##Version 1.2
+## Version 1.2
 Donation items completed
 
 ## Version 1.3
