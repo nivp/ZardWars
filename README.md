@@ -7,3 +7,6 @@ For an official changelog, view this file: [Changelog](https://github.com/nivp/Z
 
 # Bug Report
 For any bugs, please report them in the [issue tracker](https://github.com/nivp/ZardWars/issues/new).
+
+# Strategy Guide
+When ZardWars was officially available, [this](http://zardwarsrevival.nfshost.com) site was set up including some information about Zardwars.
