@@ -13,3 +13,5 @@ For any bugs, please report them in the [issue tracker](https://github.com/nivp/
 
 # Strategy Guide
 When ZardWars was officially available, [this](http://zardwarsrevival.nfshost.com) site was set up including some information about Zardwars.
+
+Additionally, my [internal spreadsheet](https://docs.google.com/spreadsheets/d/1Z6jsdXSpTHQ5AhoBAARTQO_eMoJKPiUc9utdwNFl5-U/edit?usp=sharing) contains some additional information I balance around.
