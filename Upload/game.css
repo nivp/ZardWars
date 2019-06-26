@@ -1,0 +1,22 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #333333;
+}
+td {
+	font-size: 13px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.AQHeader {
+	font-weight: bold;
+	color: #FFFF00;
+}
+.AQWhite {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+a {color:#FF0000} 
+a:hover {color:#cccc66}

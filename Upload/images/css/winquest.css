@@ -1,0 +1,85 @@
+body {
+  font-size: 12px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #333333;
+  color: #FFFFFF;
+}
+
+li { line-height:140% }
+A { color: #990000; }
+
+P.whitenavlinks { line-height: 140%; margin-left: 3px;}
+A.whitenavlinks {color: #FFFFFF; text-decoration:underline;}	
+A.whitenavlinks:hover {color: #CCCC66; text-decoration:underline;}
+
+div.darknav { background-color: Transparent; }
+P.darknav { line-height: 140%; background-color: Transparent; margin-left: 3px; }
+A.darknav {color: #000000; text-decoration:underline;}	
+A.darknav:hover {color: #333333; text-decoration:underline;}
+
+td {
+  font-size: 12px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.AQHeader { font-weight: bold; color: #FFFF00; padding: 4px;}
+.AQWhite { font-weight: bold; color: #FFFFFF; }
+.AQGold  { color: #D3D340; }
+
+.top10 {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000; 
+	font-size: 12px;
+}
+.top10Name {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000; 
+	font-size: 14px; 
+	font-weight:bold 
+}
+.top10Heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #FFFFFF;
+	background-color: #000000;
+	font-size: 12px; 
+	font-weight:bold
+}
+.cellGold { 
+	font-weight: normal;
+	color: #000000; 
+	background-color: #cccc66; 
+}
+
+.cellWhite {
+	font-weight: normal;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.cellBlack {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+.cellGreen {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #336600;
+}
+.cellYellow {
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFF99;
+}
+
+.cellPale {
+	color: #000000;
+	background-color: #FFFFCC;
+}
+.cellBeige {
+	color: #000000;
+	background-color: #F6F6CC;
+}
+
+.padded { padding: 4px; }
+.notpadded { padding: 0px; }
