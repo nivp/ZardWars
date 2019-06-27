@@ -47,7 +47,7 @@ if ($lev1 < 0) {
 if($monsterid == 0 || mysql_num_rows($getmon) == 0){
 	$count = mysql_query("SELECT COUNT(*) FROM zw_monsters WHERE level >= {$lev1} AND level <= {$lev2} AND ExtraData != 'trainer'");
 	$cnt = mysql_fetch_array($count);
-	$offset = rand(0, $cnt[0]-1);
+	$offset = mt_rand(0, $cnt[0]-1);
 	
 	//$monq = mysql_query("SELECT * FROM zw_monsters WHERE level >= {$lev1} AND level <= {$lev2} AND ExtraData != 'trainer' ORDER BY RAND() LIMIT 1"); # or die (mysql_error());
 	$monq = mysql_query("SELECT * FROM zw_monsters WHERE level >= {$lev1} AND level <= {$lev2} AND ExtraData != 'trainer' LIMIT 1 OFFSET {$offset}");
