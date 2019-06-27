@@ -2,7 +2,7 @@
 
 1. Clone the project to your computer (can be downloaded as a ZIP file).
 
-2. In your host, import your database from: "/Database/zw-database.sql"
+2. In your host, import your database from: "/Database/zw-database-1.1.sql"
 
 3. Upload everything in: "/Upload" to your site root directory.
 
