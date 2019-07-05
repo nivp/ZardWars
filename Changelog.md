@@ -1,10 +1,10 @@
 # Past Changelog
 ## Version 1.2
-- Add Asgardian Plate
-- Add Asgardian Shield
-- Add Witch Waster
-- Add OnyxxWartexx
-- Add Shadow Fireaxe
+- Added Asgardian Plate
+- Added Asgardian Shield
+- Added Witch Waster
+- Added OnyxxWartexx
+- Added Shadow Fireaxe
 
 ## Version 1.1
 - Added Stat Untrainer
