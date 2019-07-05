@@ -1,4 +1,11 @@
 # Past Changelog
+## Version 1.2
+- Add Asgardian Plate
+- Add Asgardian Shield
+- Add Witch Waster
+- Add OnyxxWartexx
+- Add Shadow Fireaxe
+
 ## Version 1.1
 - Added Stat Untrainer
 - Added Skinscraper weapon
@@ -9,12 +16,6 @@
 - On par with the [pedia](http://zardwarsrevival.nfshost.com).
 
 # Future Updates
-## Version 1.2
-- Add Asgardian Plate
-- Add Asgardian Shield
-- Add Witch Waster
-- Add OnyxxWartexx
-- Add Shadow Fireaxe
 
 ## Version 1.3
 - Add Power Word Whoops
