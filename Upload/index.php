@@ -68,6 +68,13 @@
     <!-- </form> -->
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding-top: 20px;">
+	Disclaimer: This content is not affiliated with, endorsed, sponsored, or specifically approved by <a href="https://www.artix.com/">Artix Entertainment</a> and 
+	<a href="https://www.artix.com/">Artix Entertainment</a> is not responsible for it. All assets belong to <a href="https://www.artix.com/">Artix Entertainment</a> are will be removed on their request.
+    </td>
+  </tr>
+  <tr>
 </table><br></center>
 </body>
 
