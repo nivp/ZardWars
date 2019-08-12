@@ -1,4 +1,10 @@
 # Past Changelog
+## Version 1.3
+- Add Power Word Whoops
+- Add Ultimate Dragon Scythe of Elements
+- Add Zhilo's Armor
+- Add Thrale's Scorn
+
 ## Version 1.2
 - Added Asgardian Plate
 - Added Asgardian Shield
@@ -16,12 +22,6 @@
 - On par with the [pedia](http://zardwarsrevival.nfshost.com).
 
 # Future Updates
-
-## Version 1.3
-- Add Power Word Whoops
-- Add Ultimate Dragon Scythe of Elements
-- Add Zhilo's Armor
-- Add Thrale's Scorn
 
 ## Version 1.4
 - Add pack monsters
